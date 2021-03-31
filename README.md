@@ -12,6 +12,7 @@ The objective of this project is to apply predictive analysis on the Data-set(ba
 - AWS account
 
 #### Resources & knowledge-base:
+- Autohr : CodeBasic (youtube Channel)
 - Tutorial (youtube) : https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=1
 
 - git : https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
