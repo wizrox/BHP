@@ -12,4 +12,9 @@ The objective of this project is to apply predictive analysis on the Data-set(ba
 - AWS account
 
 #### Resources & knowledge-base:
+- Tutorial (youtube) : https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=1
 
+- git : https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
+
+#### Disclaimer:
+-**This Project and code-based is not owned by me,Everything included in the project from code and files are created by following the tutorial presented by "codeBasic" on youtube channel(mentioned aboved).**
