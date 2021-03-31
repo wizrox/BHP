@@ -1,4 +1,4 @@
-# BHP
+# BHP *Bengaluru House Price (Predictive Analysis)*
 ## Project Objective:
 The objective of this project is to apply predictive analysis on the Data-set(based on real-state details for house price in the city of Bengalore).To obtain an effective and accurate estimation of prices the data was first cleaned(by omitting redundant and outlier data values) and only relevant information are bundled in data-set.Than a Linear-Regression technique were used to obtain the model and predict the prices. the next step was to used this model by importing it as a 'pickle' file and used it as a service to process the request for client/server based applciation. After this has been run and tested on a local machine. the final step was to deploy it on Amazon EC2 cloud.
 
@@ -17,4 +17,4 @@ The objective of this project is to apply predictive analysis on the Data-set(ba
 - git : https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
 
 #### Disclaimer:
--**This Project and code-based is not owned by me,Everything included in the project from code and files are created by following the tutorial presented by "codeBasic" on youtube channel(mentioned aboved).**
+- **This Project and code-based is not owned by me,Everything included in the project from code and files are created by following the tutorial presented by "codeBasic" on youtube channel(mentioned aboved).**
